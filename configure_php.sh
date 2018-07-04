@@ -25,7 +25,7 @@
 --with-openssl-dir=/usr/local/openssl-1.0.2o \
 --with-openssl=/usr/local/openssl-1.0.2o \
 --with-zlib=/usr/local/zlib-1.2.11 \
---with-curl=/usr/local/curl-7.60.0 \
+--with-curl=/usr/local/curl-7_29_0 \
 --with-gd=/usr/local/libgd-2.2.5 \
 --with-freetype-dir=/usr/local/freetype-2.4.0 \
 --with-png-dir=/usr/local/libpng-1.6.34 \
